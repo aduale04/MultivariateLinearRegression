@@ -39,7 +39,7 @@ The trained Linear Regression model shows an R-squared value of 0.98, indicating
 - Extend the analysis to include more features.
 
 ## Author
-Your Name
+Abdul Dualeh
 
 ## Acknowledgments
 Data sourced from Kaggle.
